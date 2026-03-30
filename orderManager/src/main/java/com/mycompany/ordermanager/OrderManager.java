@@ -10,7 +10,7 @@ package com.mycompany.ordermanager;
  */
 public class OrderManager {
 
-    public static void main(String[] args) {
-          
+    public static void main(String[] args) {       
+        new MyFrame().setVisible(true);
     }
 }
